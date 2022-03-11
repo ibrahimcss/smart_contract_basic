@@ -14,5 +14,5 @@ payable: Functions declared with payable can accept Ether sent to the contract. 
 
 project content
 ----------------------------------------------------------------------------------------------------------------------------
-in this smart contract sample  has "setName" and "getName" functions with solidity on blockchain
+in this smart contract sample  has "setName" and "getName" functions with solidity on blockchain<br />
 this example used ganache and truffle
